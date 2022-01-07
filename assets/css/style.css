@@ -112,13 +112,13 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background: rgba(1, 4, 136, 0.9);
+  background: #182365;
 }
 #header.header-transparent {
   background: transparent;
 }
 #header.header-scrolled {
-  background: rgba(1, 4, 136, 0.9);
+  background: #182365;
   height: 60px;
 }
 #header .logo h1 {
